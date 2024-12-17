@@ -6,7 +6,7 @@ I currently have 4 ongoing projects:
 - As a research assistant, I'm heading an NLP project [using GenAI to augment datasets](https://github.com/DaveWestFGCU/NLP_Augmentation_via_GenAI) for improving textual classifier models.
 - As a senior in the SWE program, I'm part of a team developing a resume screening tool utilizing GenAI in conjunction with an industry partner.
 - As a personal project, I'm creating a game around game-building, using GenAI to code a game of your choosing and iteratively improve it (without the player writing any code).
-- And as a hobby I'm currently [solving Advent of Code puzzles](https://github.com/DaveWestFGCU/AdventOfCode_2024) throughout the month of December.
+- And as a hobby I'm currently [solving Advent of Code puzzles](https://github.com/DaveWestFGCU/AdventOfCode_2024) throughout the month of December (no GenAI here).
 
 My biggest problem is that I love learning and think everything is so interesting that I'm having trouble specializing.
 <!--
