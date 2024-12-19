@@ -8,7 +8,6 @@ I currently have 4 ongoing projects:
 - As a personal project, I'm creating a game around game-building, using GenAI to code a game of your choosing and iteratively improve it (without the player writing any code).
 - And as a hobby I'm currently [solving Advent of Code puzzles](https://github.com/DaveWestFGCU/AdventOfCode_2024) throughout the month of December (no GenAI here).
 
-My biggest problem is that I love learning and think everything is so interesting that I'm having trouble specializing.
 <!--
 **DaveWestFGCU/DaveWestFGCU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
