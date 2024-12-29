@@ -1,6 +1,6 @@
-## I am Dave.
+## Welcome!
 
-I'm a senior in [Florida Gulf Coast University](https://www.fgcu.edu/)'s software engineering bachelor's program (class of Spring 2025).
+I'm Dave, a senior in [Florida Gulf Coast University](https://www.fgcu.edu/)'s software engineering bachelor's program (class of Spring 2025).
 
 I currently have 4 ongoing projects:
 - As a research assistant, I'm heading an NLP project [using GenAI to augment datasets](https://github.com/DaveWestFGCU/NLP_Augmentation_via_GenAI) for improving textual classifier models.
