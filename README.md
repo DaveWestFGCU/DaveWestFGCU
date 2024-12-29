@@ -1,12 +1,12 @@
-## Hi there 👋
+## I am Dave.
 
-I'm Dave, a senior in [Florida Gulf Coast University](https://www.fgcu.edu/)'s software engineering bachelor's program (class of Spring 2025).
+I'm a senior in [Florida Gulf Coast University](https://www.fgcu.edu/)'s software engineering bachelor's program (class of Spring 2025).
 
 I currently have 4 ongoing projects:
 - As a research assistant, I'm heading an NLP project [using GenAI to augment datasets](https://github.com/DaveWestFGCU/NLP_Augmentation_via_GenAI) for improving textual classifier models.
 - As a senior in the SWE program, I'm part of a team developing a resume screening tool utilizing GenAI in conjunction with an industry partner.
 - As a personal project, I'm creating a game around game-building, using GenAI to code a game of your choosing and iteratively improve it (without the player writing any code).
-- And as a hobby I'm currently [solving Advent of Code puzzles](https://github.com/DaveWestFGCU/AdventOfCode_2024) throughout the month of December (no GenAI here).
+- And as a hobby I'm currently solving [Advent of Code](https://www.adventofcode.com/) puzzles. I completed all [50/50 stars for this year's puzzles in C++](https://github.com/DaveWestFGCU/AdventOfCode_2024) and will be going back to previous years in whatever language I'm learning at the time (next up, 2023 in JavaScript).
 
 <!--
 **DaveWestFGCU/DaveWestFGCU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
