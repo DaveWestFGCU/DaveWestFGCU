@@ -8,6 +8,7 @@ I currently have 3 ongoing projects:
 3. On the side I'm solving [Advent of Code](https://www.adventofcode.com/) puzzles.
    - I completed all [50/50 stars for this year's puzzles in C++](https://github.com/DaveWestFGCU/AdventOfCode_2024) throughout December.
    - I will be going back to previous years to solve each year in a different language.
+
 Additionally, I TA for two Programming I classes.
 <!--
 **DaveWestFGCU/DaveWestFGCU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
