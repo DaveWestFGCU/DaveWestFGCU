@@ -1,15 +1,6 @@
 ## Welcome!
 
-I'm Dave, a senior in [Florida Gulf Coast University](https://www.fgcu.edu/)'s software engineering bachelor's program (class of Spring 2025).
-
-I currently have 3 ongoing projects:
-1. As a research assistant, I'm heading NLP projects using GenAI to [augment](https://github.com/DaveWestFGCU/Exploring-GenAI-Data-Augmentation) and [annotate](https://github.com/DaveWestFGCU/Exploring-GenAI-Data-Annotation) datasets for improving textual classifier models.
-2. As a senior in the SWE program, I'm part of a team developing a resume screening tool utilizing GenAI in conjunction with an industry partner.
-3. On the side I'm solving [Advent of Code](https://www.adventofcode.com/) puzzles.
-   - I completed all [50/50 stars for this year's puzzles in C++](https://github.com/DaveWestFGCU/AdventOfCode_2024) throughout December.
-   - I will be going back to previous years to solve each year in a different language.
-
-Additionally, I TA for two Programming I classes.
+I'm Dave, a new graduate from [Florida Gulf Coast University](https://www.fgcu.edu/)'s software engineering bachelor's program and an android engineer intern at [Eightpoint](https://eightpoint.io/).
 <!--
 **DaveWestFGCU/DaveWestFGCU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
