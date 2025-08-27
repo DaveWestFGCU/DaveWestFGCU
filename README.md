@@ -1,6 +1,6 @@
 ## Welcome!
 
-I'm Dave, a new graduate from [Florida Gulf Coast University](https://www.fgcu.edu/)'s software engineering bachelor's program and an android engineer intern at [Eightpoint](https://eightpoint.io/).
+I'm Dave, a new AI Engineer [Eightpoint](https://eightpoint.io/) and recent software engineering graduate from [Florida Gulf Coast University](https://www.fgcu.edu/).
 <!--
 **DaveWestFGCU/DaveWestFGCU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
